@@ -32,7 +32,7 @@ It also plots waveform comparisons of original vs modified audio.
 
 ## 🗣️ Sample Voice Input
 
-> "I am Abbal Baral and this is my Digital Signal Processing Project!"
+> "I am Abbal Baral and I am doing the Digital Signal Processing Project!"
 
 ---
 
